@@ -1,7 +1,6 @@
 # Worderladder用户手册
 1. 引言
    * 尝试使用java语言重新编写lab的wordladder程序，了解maven框架以及junit功能
-   * 项目作者：BlackAngle
 2. 功能概述
    * 目标：寻找两个给定单词间的一条最短转换路径
    * 转换规则：一次只能变更原单词的一个字母
